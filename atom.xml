@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Holy-Glory-Alex.github.io</id>
     <title>Alex</title>
-    <updated>2020-03-04T12:40:26.416Z</updated>
+    <updated>2020-03-04T12:46:29.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Holy-Glory-Alex.github.io"/>
     <link rel="self" href="https://Holy-Glory-Alex.github.io/atom.xml"/>
@@ -11,17 +11,6 @@
     <logo>https://Holy-Glory-Alex.github.io/images/avatar.png</logo>
     <icon>https://Holy-Glory-Alex.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alex</rights>
-    <entry>
-        <title type="html"><![CDATA[【武侠小说】第一章 ]]></title>
-        <id>https://Holy-Glory-Alex.github.io/wu-xia-xiao-shuo-1/</id>
-        <link href="https://Holy-Glory-Alex.github.io/wu-xia-xiao-shuo-1/">
-        </link>
-        <updated>2020-03-03T06:09:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>开元末年以后，唐玄宗追求享乐，任人唯亲，朝政日益腐败。终于，755年安禄山发动叛变，国破人亡。就在这时，江湖中各派英雄人物出场，人才辈出，为保家卫国奉献出自己的力量……</strong></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>开元末年以后，唐玄宗追求享乐，任人唯亲，朝政日益腐败。终于，755年安禄山发动叛变，国破人亡。就在这时，江湖中各派英雄人物出场，人才辈出，为保家卫国奉献出自己的力量……</strong></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【浅淡】最短路径]]></title>
         <id>https://Holy-Glory-Alex.github.io/Shortest-Path/</id>
