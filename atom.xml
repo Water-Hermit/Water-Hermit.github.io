@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Holy-Glory-Alex.github.io</id>
-    <title>Alex</title>
-    <updated>2020-03-08T03:06:23.221Z</updated>
+    <id>https://Water-Hermit.github.io</id>
+    <title></title>
+    <updated>2020-03-08T05:14:17.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Holy-Glory-Alex.github.io"/>
-    <link rel="self" href="https://Holy-Glory-Alex.github.io/atom.xml"/>
-    <subtitle>发现非凡的自己，
-成就精彩的人生！</subtitle>
-    <logo>https://Holy-Glory-Alex.github.io/images/avatar.png</logo>
-    <icon>https://Holy-Glory-Alex.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Alex</rights>
+    <link rel="alternate" href="https://Water-Hermit.github.io"/>
+    <link rel="self" href="https://Water-Hermit.github.io/atom.xml"/>
+    <logo>https://Water-Hermit.github.io/images/avatar.png</logo>
+    <icon>https://Water-Hermit.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, </rights>
     <entry>
         <title type="html"><![CDATA[【浅淡】最短路径]]></title>
-        <id>https://Holy-Glory-Alex.github.io/Shortest-Path/</id>
-        <link href="https://Holy-Glory-Alex.github.io/Shortest-Path/">
+        <id>https://Water-Hermit.github.io/Shortest-Path/</id>
+        <link href="https://Water-Hermit.github.io/Shortest-Path/">
         </link>
         <updated>2020-03-08T03:05:29.000Z</updated>
     </entry>
