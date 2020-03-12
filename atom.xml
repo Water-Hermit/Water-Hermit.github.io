@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Water-Hermit.github.io</id>
-    <title></title>
-    <updated>2020-03-08T08:07:17.954Z</updated>
+    <id>https://Wucaoyue.github.io</id>
+    <title>吴曹悦</title>
+    <updated>2020-03-12T06:10:40.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Water-Hermit.github.io"/>
-    <link rel="self" href="https://Water-Hermit.github.io/atom.xml"/>
-    <logo>https://Water-Hermit.github.io/images/avatar.png</logo>
-    <icon>https://Water-Hermit.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
-    <entry>
-        <title type="html"><![CDATA[【浅淡】最短路径]]></title>
-        <id>https://Water-Hermit.github.io/Shortest-Path/</id>
-        <link href="https://Water-Hermit.github.io/Shortest-Path/">
-        </link>
-        <updated>2020-03-08T03:05:29.000Z</updated>
-    </entry>
+    <link rel="alternate" href="https://Wucaoyue.github.io"/>
+    <link rel="self" href="https://Wucaoyue.github.io/atom.xml"/>
+    <subtitle>发现非凡的自己，
+成就精彩的人生！</subtitle>
+    <logo>https://Wucaoyue.github.io/images/avatar.png</logo>
+    <icon>https://Wucaoyue.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 吴曹悦</rights>
 </feed>
